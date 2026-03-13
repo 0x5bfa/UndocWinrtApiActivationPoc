@@ -1,0 +1,7 @@
+RoInitialize
+RoUninitialize
+RoActivateInstance
+RoGetActivationFactory
+WindowsCreateString
+WindowsDeleteString
+WindowsGetStringRawBuffer
